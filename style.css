@@ -1,0 +1,35 @@
+body{
+    background: #607D8B;
+    font: normal 15pt Arial;
+}
+
+header{
+    text-align: center;
+}
+
+header h1{
+    font-size: 20pt;
+}
+
+section{
+    background: #9E9E9E;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+}
+
+img{
+    padding: 15px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
